@@ -1,2 +1,2 @@
-# flutter_plant-store-
+plant-store
 creating with flutter with my first app
